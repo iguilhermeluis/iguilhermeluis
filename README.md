@@ -3,7 +3,7 @@
   <img align="left" alt="Guilherme Luis Faustino Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/gldesenvolvedor">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Guilherme Luis Faustino | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/guilherme-luis-faustino/">
   <img align="left" alt="Guilherme Luis Faustino LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,14 +22,14 @@
 
 <br />
 
-Hi, I'm [Guilherme Luis](https://blog.guilhermeluis.com), a Full Stack Developer 🚀 from Brazil, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Guilherme Luis](https://blog.guilhermeluis.com). I've been working as Front-End Developer since 2009. I'm passionate about open source projects, I believe that the dissemination of knowledge and good ideas inspires and improves the world.
 
   <img align="right" alt="GIF" src="https://github.com/iguilhermeluis/iguilhermeluis/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Rust and Vue; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@gldesenvolvedor](https://twitter.com/gldesenvolvedor);
 
@@ -52,7 +52,8 @@ Hi, I'm [Guilherme Luis](https://blog.guilhermeluis.com), a Full Stack Developer
 📈 My GitHub Stats
 
 <br/>
-
+<br/>
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iguilhermeluis&hide=issues&count_private=true&show_icons=true&count_private=true&include_all_commits=true" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguilhermeluis&layout=compact&card_width=250" />
 
