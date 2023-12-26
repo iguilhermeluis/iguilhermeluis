@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Guilherme Luis](https://blog.guilhermeluis.com). I've been working as Front-End Developer since 2009. I'm passionate about open source projects, I believe that the dissemination of knowledge and good ideas inspires and improves the world.
+Hi, I'm [Guilherme Luis](https://www.linkedin.com/in/guilherme-luis-faustino/). I've been working as Front-End Developer since 2009. I'm passionate about open source projects, I believe that the dissemination of knowledge and good ideas inspires and improves the world.
 
   <img align="right" alt="GIF" src="https://github.com/iguilhermeluis/iguilhermeluis/blob/main/code.gif?raw=true" width="500" height="320" />
   
