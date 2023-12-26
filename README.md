@@ -29,7 +29,6 @@ Hi, I'm [Guilherme Luis](https://blog.guilhermeluis.com). I've been working as F
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Rust and Vue; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@gldesenvolvedor](https://twitter.com/gldesenvolvedor);
 
